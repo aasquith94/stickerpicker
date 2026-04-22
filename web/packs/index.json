@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "69thstg.json"
+  ],
+  "homeserver_url": "https://matrix.69thstg.duckdns.org"
+}

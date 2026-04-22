@@ -12,3 +12,8 @@ web/lib/import-map.json
 *.session
 /*.json
 *.bak
+config.json
+sticker-import.session
+.DS_Store
+._.DS_Store
+build/
